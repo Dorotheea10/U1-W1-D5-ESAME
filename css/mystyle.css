@@ -1,0 +1,103 @@
+body {
+  margin: 0%;
+  background-color: white;
+  font-family: "Open Sans" 1.2rem;
+  font-size: inherit.65;
+}
+
+.logo-container {
+  width: 100%;
+  background-color: #000;
+  text-align: center;
+  padding: 2rem;
+}
+
+img {
+  width: 100%;
+}
+.logo1 {
+  width: 40%;
+}
+.background {
+  background-image: url(/images/banner.jpg);
+  text-align: center;
+  height: 25rem;
+  background-size: cover;
+}
+.scendo {
+}
+.pulsante1 {
+  background-color: #f04c2f;
+  border: 0;
+  color: white;
+  padding: 10px;
+  font-weight: bold;
+  border-radius: 2px;
+  margin-block: 20px;
+}
+.container1 {
+  text-align: center;
+  margin-block: 20px;
+}
+.titoli {
+  color: #25a2c3;
+  text-align: center;
+  font-weight: bold;
+  font-family: "Montserrat(bold)";
+  font-size: inherit.5;
+}
+.fotorotonda {
+  border-radius: 50%;
+  margin-block: 20px;
+  width: 60%;
+}
+.container3 {
+  background-color: red;
+  color: white;
+  text-align: center;
+  padding: 50px;
+  font-family: "Open Sans";
+}
+h3 {
+  margin-block: 20px;
+}
+h6 {
+  font-family: "Montserrat";
+  font-size: 1.2rem;
+  padding: 5%;
+}
+
+.container4 {
+  text-align: center;
+  padding: 2em;
+}
+.bordo {
+  border: 1px solid #dee1e3;
+  margin: 0;
+}
+.bordo img {
+  border: 2px;
+}
+.footer {
+  background-color: #25a2c3;
+  color: #c8e7f0;
+  padding-inline: 2rem;
+  font-size: 1rem;
+  text-align: center;
+}
+p {
+  margin: 10px;
+}
+.footer h3 {
+  color: white;
+  font-size: 1.4rem;
+  padding-top: 2rem;
+}
+hr {
+  width: 50%;
+}
+#copyrigth {
+  font-size: 0.9rem;
+  padding: 1.5rem;
+  padding-bottom: 3.4rem;
+}
